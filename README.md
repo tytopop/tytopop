@@ -93,9 +93,9 @@ Telegram-боты, парсеры, backend, DevOps. Днём — 120+ РМ, ве
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tytopop&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tytopop&layout=compact&theme=default&hide_border=true)
+![Top Languages](profile/top-langs.svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=tytopop&color=gray)
 
