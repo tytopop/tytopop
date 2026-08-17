@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 6 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/readme-stats.yml"
 
 permissions:
   contents: write
@@ -15,20 +18,24 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=tytopop&show_icons=true&theme=default&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: 2.1.5
+          fail_on_error: true
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=tytopop&layout=compact&theme=default&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: 2.1.5
+          fail_on_error: true
 
       - name: Commit updated cards
         uses: stefanzweifel/git-auto-commit-action@v5

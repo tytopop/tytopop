@@ -85,12 +85,6 @@ Telegram-боты, парсеры, backend, DevOps. Днём — 120+ РМ, ве
 
 ---
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tytopop/navidrome-radio,tytopop/StopExtremismBelarus&type=Date)](https://star-history.com/#tytopop/navidrome-radio&tytopop/StopExtremismBelarus&Date)
-
----
-
 <div align="center">
 
 ![GitHub Stats](profile/stats.svg)
