@@ -38,7 +38,6 @@ I build Telegram bots, web scrapers, automation tools, and backend services. Sys
 ## 📧 Contact
 
 [![Email](https://img.shields.io/badge/Email-eggyvadim@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eggyvadim@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@tytopopeth-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tytopopeth)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vadim_Yehhi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadzimyehhi/)
 [![X](https://img.shields.io/badge/X-@tytopopeth-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tytopopeth)
 
@@ -78,7 +77,6 @@ Telegram-боты, парсеры, backend, DevOps. Днём — 120+ РМ, ве
 ## 📧 Контакты
 
 [![Email](https://img.shields.io/badge/Email-eggyvadim@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eggyvadim@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@tytopopeth-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tytopopeth)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vadim_Yehhi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadzimyehhi/)
 
 </details>
